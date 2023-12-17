@@ -13,7 +13,7 @@ This work was made possible by the following progects:
 - {GIMP}(https://www.gimp.org/)
 - {Inkscape}(https://inkscape.org/)
 
-The cover's frame and logo were made by Daniele Galasco.
+The cover's frame and logo were made by Daniele Galano.
 
 ## LICENSE
 
