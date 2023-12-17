@@ -77,3 +77,11 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+# Script to generate thumbs
+./utils/scale.sh
+
+# Scriptsto generate gallry
+./utils/generate_gallery.sh
+
+# Script to generate Telegram message and poll
+./utils/tg_message.sh
