@@ -13,7 +13,7 @@ This work was made possible by the following projects:
 - [GIMP](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/)
 
-The cover's frame and logo were resized by Daniele Galano.
+The cover's frame and logo were made by Daniele Galano.
 
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
