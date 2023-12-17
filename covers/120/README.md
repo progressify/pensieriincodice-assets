@@ -6,7 +6,7 @@
 
 Only FOSS software was used to generate the gallery.
 
-This work was made possible by the following progects:
+This work was made possible by the following projects:
 
 - [Stable Diffusion Web UI](https://github.com/CompVis/stable-diffusion) - [LICENSE](https://github.com/CompVis/stable-diffusion/blob/main/LICENSE)
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - [LICENSE](https://github.com/comfyanonymous/ComfyUI/blob/master/LICENSE)
