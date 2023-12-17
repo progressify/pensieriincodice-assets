@@ -81,7 +81,7 @@ fabric.properties
 ./utils/scale.sh
 
 # Scriptsto generate gallry
-./utils/generate_gallery.sh
+./utils/gallery.sh
 ./utils/generate_gallery.bak
 
 # Script to generate Telegram message and poll
