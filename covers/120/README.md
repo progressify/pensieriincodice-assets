@@ -10,8 +10,8 @@ This work was made possible by the following progects:
 
 - [Stable Diffusion Web UI](https://github.com/CompVis/stable-diffusion) - [LICENSE](https://github.com/CompVis/stable-diffusion/blob/main/LICENSE)
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI - [LICENSE](https://github.com/comfyanonymous/ComfyUI/blob/master/LICENSE)
-- {GIMP}(https://www.gimp.org/)
-- {Inkscape}(https://inkscape.org/)
+- [GIMP](https://www.gimp.org/)
+- [Inkscape](https://inkscape.org/)
 
 The cover's frame and logo were resized by Daniele Galano.
 
