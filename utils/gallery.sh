@@ -25,7 +25,6 @@ CSS
 
     # Create HTML file
     cat <<HTML > "$OUTPUT_HTML"
-
 ## AUTHOR
 
 - [Francesco Zubani](https://www.linkedin.com/in/francesco-zubani-5957081a6/)
@@ -83,7 +82,6 @@ HTML
 clipboard() {
     local output_html="$1"
     wl-copy --type text/html < "$output_html"
-    rm "$output_html"
 }
 
 write_gallery
