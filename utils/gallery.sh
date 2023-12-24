@@ -11,7 +11,7 @@ THUMBS_DIR=$(basename "$THUMBS_DIR_FULL")
 IMAGES_DIR_FULL=$(zenity --file-selection --directory --title="Select Images Directory")
 IMAGES_DIR=$(basename "$IMAGES_DIR_FULL")
 
-OUTPUT_HTML="README.md"
+OUTPUT_HTML="$IMAGES_DIR_FULL/README.md"
 CSS_FILE="$IMAGES_DIR_FULL/style.css"
 
 write_gallery() {
