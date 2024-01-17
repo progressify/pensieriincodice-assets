@@ -41,22 +41,6 @@ See LICENSE file for more details.
   <a href="PIC125_14.png"><img class="thumbnail" src="thumbs/PIC125_14.png" alt="PIC125_14"></a>
   <a href="PIC125_15.png"><img class="thumbnail" src="thumbs/PIC125_15.png" alt="PIC125_15"></a>
   <a href="PIC125_16.png"><img class="thumbnail" src="thumbs/PIC125_16.png" alt="PIC125_16"></a>
-  <a href="PIC125_17.png"><img class="thumbnail" src="thumbs/PIC125_17.png" alt="PIC125_17"></a>
-  <a href="PIC125_18.png"><img class="thumbnail" src="thumbs/PIC125_18.png" alt="PIC125_18"></a>
-  <a href="PIC125_19.png"><img class="thumbnail" src="thumbs/PIC125_19.png" alt="PIC125_19"></a>
-  <a href="PIC125_20.png"><img class="thumbnail" src="thumbs/PIC125_20.png" alt="PIC125_20"></a>
-  <a href="PIC125_21.png"><img class="thumbnail" src="thumbs/PIC125_21.png" alt="PIC125_21"></a>
-  <a href="PIC125_22.png"><img class="thumbnail" src="thumbs/PIC125_22.png" alt="PIC125_22"></a>
-  <a href="PIC125_23.png"><img class="thumbnail" src="thumbs/PIC125_23.png" alt="PIC125_23"></a>
-  <a href="PIC125_24.png"><img class="thumbnail" src="thumbs/PIC125_24.png" alt="PIC125_24"></a>
-  <a href="PIC125_25.png"><img class="thumbnail" src="thumbs/PIC125_25.png" alt="PIC125_25"></a>
-  <a href="PIC125_26.png"><img class="thumbnail" src="thumbs/PIC125_26.png" alt="PIC125_26"></a>
-  <a href="PIC125_27.png"><img class="thumbnail" src="thumbs/PIC125_27.png" alt="PIC125_27"></a>
-  <a href="PIC125_28.png"><img class="thumbnail" src="thumbs/PIC125_28.png" alt="PIC125_28"></a>
-  <a href="PIC125_29.png"><img class="thumbnail" src="thumbs/PIC125_29.png" alt="PIC125_29"></a>
-  <a href="PIC125_30.png"><img class="thumbnail" src="thumbs/PIC125_30.png" alt="PIC125_30"></a>
-  <a href="PIC125_31.png"><img class="thumbnail" src="thumbs/PIC125_31.png" alt="PIC125_31"></a>
-  <a href="PIC125_32.png"><img class="thumbnail" src="thumbs/PIC125_32.png" alt="PIC125_32"></a>
 </div>
 </body>
 </html>
