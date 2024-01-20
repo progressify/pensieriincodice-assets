@@ -86,3 +86,4 @@ fabric.properties
 
 # Script to generate Telegram message and poll
 ./utils/tg_message.sh
+./utils/draft_commit.sh
