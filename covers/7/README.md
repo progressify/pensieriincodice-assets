@@ -22,7 +22,7 @@ See LICENSE file for more details.
 
 ## GALLERY
 
-### Ep.7 - La filosofia dell'ipertesto
+### La filosofia dell'ipertesto
 
 <div class="gallery">
   <a href="PIC7_01.png"><img class="thumbnail" src="./thumbs/PIC7_01.png" alt="PIC7_01"></a>
