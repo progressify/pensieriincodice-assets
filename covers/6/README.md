@@ -22,7 +22,7 @@ See LICENSE file for more details.
 
 ## GALLERY
 
-### Ep.6 - Gli strati del Web
+### Gli strati del Web
 
 <div class="gallery">
   <a href="PIC6_01.png"><img class="thumbnail" src="./thumbs/PIC6_01.png" alt="PIC6_01"></a>
