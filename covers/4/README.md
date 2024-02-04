@@ -22,7 +22,7 @@ See LICENSE file for more details.
 
 ## GALLERY
 
-### Ep.4 - Il sito fai-da-te? Sicuri che conviene?
+### Il sito fai-da-te? Sicuri che conviene?
 
 <div class="gallery">
   <a href="PIC4_01.png"><img class="thumbnail" src="./thumbs/PIC4_01.png" alt="PIC4_01"></a>
