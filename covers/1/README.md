@@ -22,7 +22,7 @@ See LICENSE file for more details.
 
 ## GALLERY
 
-### Ep.1 - Perché tutti dovremmo imparare a programmare?
+### Perché tutti dovremmo imparare a programmare?
 
 <div class="gallery">
   <a href="PIC1_01.png"><img class="thumbnail" src="./thumbs/PIC1_01.png" alt="PIC1_01"></a>
