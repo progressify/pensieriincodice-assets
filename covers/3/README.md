@@ -22,7 +22,7 @@ See LICENSE file for more details.
 
 ## GALLERY
 
-### Ep.3 - Consigli per la privacy online
+### Consigli per la privacy online
 
 <div class="gallery">
   <a href="PIC3_01.png"><img class="thumbnail" src="./thumbs/PIC3_01.png" alt="PIC3_01"></a>
