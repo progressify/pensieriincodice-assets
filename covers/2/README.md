@@ -22,7 +22,7 @@ See LICENSE file for more details.
 
 ## GALLERY
 
-### Ep.2 - I 10 bug più costosi della storia
+### I 10 bug più costosi della storia
 
 <div class="gallery">
   <a href="PIC2_01.png"><img class="thumbnail" src="./thumbs/PIC2_01.png" alt="PIC2_01"></a>
