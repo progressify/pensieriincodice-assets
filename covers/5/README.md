@@ -22,7 +22,7 @@ See LICENSE file for more details.
 
 ## GALLERY
 
-### Ep.5 - La qualità del codice
+### La qualità del codice
 
 <div class="gallery">
   <a href="PIC5_01.png"><img class="thumbnail" src="./thumbs/PIC5_01.png" alt="PIC5_01"></a>
