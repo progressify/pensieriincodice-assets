@@ -22,7 +22,7 @@ See LICENSE file for more details.
 
 ## GALLERY
 
-### Ep.8 - 10, 100, 1000 password e come archiviarle
+### 10, 100, 1000 password e come archiviarle
 
 <div class="gallery">
   <a href="PIC8_01.png"><img class="thumbnail" src="./thumbs/PIC8_01.png" alt="PIC8_01"></a>
