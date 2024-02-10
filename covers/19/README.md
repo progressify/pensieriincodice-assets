@@ -34,6 +34,8 @@ See LICENSE file for more details.
   <a href="PIC19_07.png"><img class="thumbnail" src="./thumbs/PIC19_07.png" alt="PIC19_07"></a>
   <a href="PIC19_08.png"><img class="thumbnail" src="./thumbs/PIC19_08.png" alt="PIC19_08"></a>
   <a href="PIC19_09.png"><img class="thumbnail" src="./thumbs/PIC19_09.png" alt="PIC19_09"></a>
+  <a href="PIC19_10.png"><img class="thumbnail" src="./thumbs/PIC19_10.png" alt="PIC19_10"></a>
+  <a href="PIC19_11.png"><img class="thumbnail" src="./thumbs/PIC19_11.png" alt="PIC19_11"></a>
 </div>
 </body>
 </html>
