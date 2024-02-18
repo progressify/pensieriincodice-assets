@@ -43,6 +43,10 @@ See LICENSE file for more details.
   <a href="PIC40_16.png"><img class="thumbnail" src="./thumbs/PIC40_16.png" alt="PIC40_16"></a>
   <a href="PIC40_17.png"><img class="thumbnail" src="./thumbs/PIC40_17.png" alt="PIC40_17"></a>
   <a href="PIC40_18.png"><img class="thumbnail" src="./thumbs/PIC40_18.png" alt="PIC40_18"></a>
+  <a href="PIC40_19.png"><img class="thumbnail" src="./thumbs/PIC40_19.png" alt="PIC40_19"></a>
+  <a href="PIC40_20.png"><img class="thumbnail" src="./thumbs/PIC40_20.png" alt="PIC40_20"></a>
+  <a href="PIC40_21.png"><img class="thumbnail" src="./thumbs/PIC40_21.png" alt="PIC40_21"></a>
+  <a href="PIC40_22.png"><img class="thumbnail" src="./thumbs/PIC40_22.png" alt="PIC40_22"></a>
 </div>
 </body>
 </html>
