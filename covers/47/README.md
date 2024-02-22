@@ -31,6 +31,19 @@ See LICENSE file for more details.
   <a href="PIC47_04.png"><img class="thumbnail" src="./thumbs/PIC47_04.png" alt="PIC47_04"></a>
   <a href="PIC47_05.png"><img class="thumbnail" src="./thumbs/PIC47_05.png" alt="PIC47_05"></a>
   <a href="PIC47_06.png"><img class="thumbnail" src="./thumbs/PIC47_06.png" alt="PIC47_06"></a>
+  <a href="PIC47_07.png"><img class="thumbnail" src="./thumbs/PIC47_07.png" alt="PIC47_07"></a>
+  <a href="PIC47_08.png"><img class="thumbnail" src="./thumbs/PIC47_08.png" alt="PIC47_08"></a>
+  <a href="PIC47_09.png"><img class="thumbnail" src="./thumbs/PIC47_09.png" alt="PIC47_09"></a>
+  <a href="PIC47_10.png"><img class="thumbnail" src="./thumbs/PIC47_10.png" alt="PIC47_10"></a>
+  <a href="PIC47_11.png"><img class="thumbnail" src="./thumbs/PIC47_11.png" alt="PIC47_11"></a>
+  <a href="PIC47_12.png"><img class="thumbnail" src="./thumbs/PIC47_12.png" alt="PIC47_12"></a>
+  <a href="PIC47_13.png"><img class="thumbnail" src="./thumbs/PIC47_13.png" alt="PIC47_13"></a>
+  <a href="PIC47_14.png"><img class="thumbnail" src="./thumbs/PIC47_14.png" alt="PIC47_14"></a>
+  <a href="PIC47_15.png"><img class="thumbnail" src="./thumbs/PIC47_15.png" alt="PIC47_15"></a>
+  <a href="PIC47_16.png"><img class="thumbnail" src="./thumbs/PIC47_16.png" alt="PIC47_16"></a>
+  <a href="PIC47_17.png"><img class="thumbnail" src="./thumbs/PIC47_17.png" alt="PIC47_17"></a>
+  <a href="PIC47_18.png"><img class="thumbnail" src="./thumbs/PIC47_18.png" alt="PIC47_18"></a>
+  <a href="PIC47_19.png"><img class="thumbnail" src="./thumbs/PIC47_19.png" alt="PIC47_19"></a>
 </div>
 </body>
 </html>
