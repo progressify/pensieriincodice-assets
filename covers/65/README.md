@@ -24,8 +24,6 @@ See LICENSE file for more details.
 
 ### Snippet - La DARPA Grand Challenge
 
-con questa aiutatemi please ☺️
-
 <div class="gallery">
   <a href="PIC65_01.png"><img class="thumbnail" src="./thumbs/PIC65_01.png" alt="PIC65_01"></a>
   <a href="PIC65_02.png"><img class="thumbnail" src="./thumbs/PIC65_02.png" alt="PIC65_02"></a>
