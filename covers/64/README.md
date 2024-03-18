@@ -25,18 +25,18 @@ See LICENSE file for more details.
 ### Dark Patterns: cosa sono e come funzionano
 
 <div class="gallery">
-  <a href="ComfyUI_00001_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00001_.png" alt="ComfyUI_00001_"></a>
-  <a href="ComfyUI_00012_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00012_.png" alt="ComfyUI_00012_"></a>
-  <a href="ComfyUI_00016_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00016_.png" alt="ComfyUI_00016_"></a>
-  <a href="ComfyUI_00036_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00036_.png" alt="ComfyUI_00036_"></a>
-  <a href="ComfyUI_00038_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00038_.png" alt="ComfyUI_00038_"></a>
-  <a href="ComfyUI_00045_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00045_.png" alt="ComfyUI_00045_"></a>
-  <a href="ComfyUI_00051_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00051_.png" alt="ComfyUI_00051_"></a>
-  <a href="ComfyUI_00052_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00052_.png" alt="ComfyUI_00052_"></a>
-  <a href="ComfyUI_00053_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00053_.png" alt="ComfyUI_00053_"></a>
-  <a href="ComfyUI_00054_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00054_.png" alt="ComfyUI_00054_"></a>
-  <a href="ComfyUI_00055_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00055_.png" alt="ComfyUI_00055_"></a>
-  <a href="ComfyUI_00056_.png"><img class="thumbnail" src="./thumbs/ComfyUI_00056_.png" alt="ComfyUI_00056_"></a>
+  <a href="PIC64_01.png"><img class="thumbnail" src="./thumbs/PIC64_01.png" alt="PIC64_01"></a>
+  <a href="PIC64_02.png"><img class="thumbnail" src="./thumbs/PIC64_02.png" alt="PIC64_02"></a>
+  <a href="PIC64_03.png"><img class="thumbnail" src="./thumbs/PIC64_03.png" alt="PIC64_03"></a>
+  <a href="PIC64_04.png"><img class="thumbnail" src="./thumbs/PIC64_04.png" alt="PIC64_04"></a>
+  <a href="PIC64_05.png"><img class="thumbnail" src="./thumbs/PIC64_05.png" alt="PIC64_05"></a>
+  <a href="PIC64_06.png"><img class="thumbnail" src="./thumbs/PIC64_06.png" alt="PIC64_06"></a>
+  <a href="PIC64_07.png"><img class="thumbnail" src="./thumbs/PIC64_07.png" alt="PIC64_07"></a>
+  <a href="PIC64_08.png"><img class="thumbnail" src="./thumbs/PIC64_08.png" alt="PIC64_08"></a>
+  <a href="PIC64_09.png"><img class="thumbnail" src="./thumbs/PIC64_09.png" alt="PIC64_09"></a>
+  <a href="PIC64_10.png"><img class="thumbnail" src="./thumbs/PIC64_10.png" alt="PIC64_10"></a>
+  <a href="PIC64_11.png"><img class="thumbnail" src="./thumbs/PIC64_11.png" alt="PIC64_11"></a>
+  <a href="PIC64_12.png"><img class="thumbnail" src="./thumbs/PIC64_12.png" alt="PIC64_12"></a>
 </div>
 </body>
 </html>
