@@ -22,7 +22,7 @@ See LICENSE file for more details.
 
 ## GALLERY
 
-### https://pensieriincodice.it/episodes/71/
+### Il mio desktop set: Logitech MX Keys e Vertical
 
 <div class="gallery">
   <a href="PIC71_01.png"><img class="thumbnail" src="./thumbs/PIC71_01.png" alt="PIC71_01"></a>
