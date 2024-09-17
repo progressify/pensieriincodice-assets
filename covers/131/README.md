@@ -22,7 +22,7 @@ See LICENSE file for more details.
 
 ## GALLERY
 
-### #PIC131
+### Isaac Asimov - Intuito Femminile - Lettura e riflessioni
 __________
 
 <div class="gallery">
