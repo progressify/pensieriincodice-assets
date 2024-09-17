@@ -25,8 +25,6 @@ See LICENSE file for more details.
 ### #PIC131
 __________
 
-https://github.com/valeriogalano/pensieriincodice-assets/tree/main/covers/131/#GALLERY
-
 <div class="gallery">
   <a href="PIC131_01.png"><img class="thumbnail" src="./thumbs/PIC131_01.png" alt="PIC131_01"></a>
   <a href="PIC131_02.png"><img class="thumbnail" src="./thumbs/PIC131_02.png" alt="PIC131_02"></a>
